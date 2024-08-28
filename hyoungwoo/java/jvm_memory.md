@@ -7,13 +7,14 @@
 
 ### 실행 과정
 
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https://blog.kakaocdn.net/dn/o2kwL/btqSmzWHdHV/OeIODqCVTN97ioNDCVjiU0/img.png
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https://blog.kakaocdn.net/dn/o2kwL/btqSmzWHdHV/OeIODqCVTN97ioNDCVjiU0/img.png)
 
 - 자바 소스 파일은 자바 컴파일러에 의해서 바이트 코드 형태인 클래스 파일이 됩니다. 그리고 이 클래스 파일은 클래스 로더가 읽어들이면서 JVM이 수행
 
 ### ***JVM 메모리 구조***
 
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https://blog.kakaocdn.net/dn/pjywN/btqSduBXLIK/2QEL5c2nEJXRm0cyhvwxF1/img.png
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https://blog.kakaocdn.net/dn/pjywN/btqSduBXLIK/2QEL5c2nEJXRm0cyhvwxF1/img.png
+)
 
 - Garbage Collector, Execution Engine, Class Loader, Runtime Data Area로, 4가지로 나눌 수 있음
 - **Class Loader**
